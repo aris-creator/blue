@@ -1,7 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '~> 4.2'
-    'cocoapods', '~> 1.5.3'
+gem 'cocoapods', '~> 1.5.3'
 
 bundle exec "
 echo '\n###########################################'
